@@ -1,7 +1,5 @@
 # Matlab-Supporting-functions-for-Auditory-Model
 
-### Important Note:
-
 This repository contains MATLAB scripts required for the auditory model bifurcation analysis. **You do not need to run these scripts directly**. They only need to be added to the MATLAB path when performing the bifurcation analysis for the auditory model using **DDE-Biftool** (see the README in the repository *Matlab-Scripts-Auditory-Model-Part1*). To set up the repository correctly, please follow these steps:
 
 1. **Download** all the provided MATLAB scripts.
