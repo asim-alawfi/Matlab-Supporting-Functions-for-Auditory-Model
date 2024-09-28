@@ -1,7 +1,7 @@
 # Matlab-Supporting-functions-for-Auditory-Model
 
 
-### Important Note for Users:
+### Important Note:
 
 This repository contains MATLAB scripts that are required for the auditory model bifurcation analysis. In order to use these scripts correctly, please follow these steps:
 
